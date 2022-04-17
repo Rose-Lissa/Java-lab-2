@@ -1,0 +1,142 @@
+19:54:40.416 INFO  com.stackcalculator.StackCalculator 19 main - start
+19:55:12.490 INFO  com.stackcalculator.commands.factory.notincluded.Push 31 exec - 1: 10.0 pushed
+19:55:12.493 INFO  com.stackcalculator.commands.factory.notincluded.Print 39 exec - 2: 10.0 printed
+19:55:12.493 INFO  com.stackcalculator.StackCalculator 25 main - successful completion
+20:00:05.172 INFO  com.stackcalculator.StackCalculator 19 main - start
+20:00:05.179 WARN  com.stackcalculator.StackCalculator 28 main - invalid format of command line arguments
+20:00:05.179 WARN  com.stackcalculator.StackCalculator 29 main - unsuccessful completion
+20:01:40.545 INFO  com.stackcalculator.StackCalculator 19 main - start
+20:01:40.551 ERROR com.stackcalculator.StackCalculator 28 main - invalid format of command line arguments
+20:01:40.552 ERROR com.stackcalculator.StackCalculator 29 main - unsuccessful completion
+20:04:07.494 INFO  com.stackcalculator.StackCalculator 19 main - start
+20:04:07.502 ERROR com.stackcalculator.StackCalculator 28 main - unsuccessful completion
+20:08:59.956 INFO  com.stackcalculator.StackCalculator 19 main - start
+20:08:59.965 ERROR com.stackcalculator.StackCalculator 28 main - unsuccessful completion
+20:16:26.121 INFO  com.stackcalculator.StackCalculator 19 main - start
+20:16:26.154 ERROR com.stackcalculator.body.CLineParser 26 parse - a lot of arguments
+20:16:26.157 ERROR com.stackcalculator.StackCalculator 28 main - unsuccessful completion
+20:17:18.262 INFO  com.stackcalculator.StackCalculator 19 main - start
+20:17:18.281 ERROR com.stackcalculator.body.CLineParser 26 parse - invalid format of command line arguments
+20:17:18.282 ERROR com.stackcalculator.StackCalculator 28 main - unsuccessful completion
+20:30:44.652 INFO  com.stackcalculator.StackCalculator 19 main - start
+20:30:44.669 INFO  com.stackcalculator.body.CLineParser 19 parse - parse cline arguments...
+20:30:44.670 INFO  com.stackcalculator.body.CLineParser 29 parse - parse cline arguments successful
+20:30:48.687 INFO  com.stackcalculator.StackCalculator 25 main - successful completion
+20:31:33.545 INFO  com.stackcalculator.StackCalculator 19 main - start
+20:31:33.551 INFO  com.stackcalculator.body.CLineParser 19 parse - parse cline arguments...
+20:31:33.558 INFO  com.stackcalculator.body.CLineParser 29 parse - parse cline arguments successful
+20:31:34.538 INFO  com.stackcalculator.StackCalculator 25 main - successful completion
+20:34:47.847 INFO  com.stackcalculator.StackCalculator 19 main - start
+20:34:47.853 INFO  com.stackcalculator.body.CLineParser 19 parse - parse cline arguments...
+20:34:47.854 INFO  com.stackcalculator.body.CLineParser 29 parse - parse cline arguments successful
+20:34:52.422 INFO  com.stackcalculator.commands.factory.notincluded.Push 31 exec - 1: 10.0 pushed
+20:34:52.422 INFO  com.stackcalculator.StackCalculator 25 main - successful completion
+20:35:20.121 INFO  com.stackcalculator.StackCalculator 19 main - start
+20:35:20.126 INFO  com.stackcalculator.body.CLineParser 19 parse - parse cline arguments...
+20:35:20.127 INFO  com.stackcalculator.body.CLineParser 29 parse - parse cline arguments successful
+20:35:24.445 INFO  com.stackcalculator.StackCalculator 25 main - successful completion
+20:53:19.747 INFO  com.stackcalculator.StackCalculator 20 main - start
+20:53:19.752 INFO  com.stackcalculator.body.CLineParser 19 parse - parse cline arguments...
+20:53:19.753 INFO  com.stackcalculator.body.CLineParser 29 parse - parse cline arguments successful
+20:53:21.950 INFO  com.stackcalculator.StackCalculator 26 main - successful completion
+20:55:41.761 INFO  com.stackcalculator.StackCalculator 20 main - start
+20:55:41.771 INFO  com.stackcalculator.body.CLineParser 19 parse - parse cline arguments...
+20:55:41.772 INFO  com.stackcalculator.body.CLineParser 29 parse - parse cline arguments successful
+21:00:43.517 INFO  com.stackcalculator.StackCalculator 20 main - start
+21:00:43.524 INFO  com.stackcalculator.body.CLineParser 19 parse - parse cline arguments...
+21:00:43.526 INFO  com.stackcalculator.body.CLineParser 29 parse - parse cline arguments successful
+21:59:17.914 INFO  com.stackcalculator.StackCalculator 20 main - start
+21:59:17.921 INFO  com.stackcalculator.body.CLineParser 19 parse - parse cline arguments...
+21:59:17.923 INFO  com.stackcalculator.body.CLineParser 29 parse - parse cline arguments successful
+21:59:18.022 INFO  com.stackcalculator.body.CommandsParserImpl 50 buildScanner - start parse from console...
+21:59:22.628 ERROR com.stackcalculator.body.CommandsParserImpl 78 parse - 1: command push no exists
+21:59:22.630 ERROR com.stackcalculator.StackCalculator 32 main - unsuccessful completion
+22:00:59.969 INFO  com.stackcalculator.StackCalculator 20 main - start
+22:00:59.976 INFO  com.stackcalculator.body.CLineParser 19 parse - parse cline arguments...
+22:00:59.977 INFO  com.stackcalculator.body.CLineParser 29 parse - parse cline arguments successful
+22:01:00.020 INFO  com.stackcalculator.body.CommandsParserImpl 50 buildScanner - start parse from console...
+22:01:00.386 ERROR com.stackcalculator.body.CommandsParserImpl 78 parse - 1: command push no exists
+22:01:00.388 ERROR com.stackcalculator.StackCalculator 32 main - unsuccessful completion
+02:16:47.492 INFO  com.stackcalculator.StackCalculator 21 main - start
+02:16:47.500 INFO  com.stackcalculator.body.CLineParser 19 parse - parse cline arguments...
+02:16:47.502 INFO  com.stackcalculator.body.CLineParser 29 parse - parse cline arguments successful
+02:16:47.568 INFO  com.stackcalculator.body.CommandsParserImpl 50 buildScanner - start parse from console...
+02:16:56.852 INFO  com.stackcalculator.body.CommandsParserImpl 94 parse - successful parse
+02:16:56.901 INFO  com.stackcalculator.commands.notincluded.Push 32 exec - 1: 10.0 pushed
+02:16:56.903 INFO  com.stackcalculator.commands.notincluded.Pop 30 exec - 2: 10.0 popped
+02:16:56.904 ERROR com.stackcalculator.commands.notincluded.Pop 33 exec - 3: unable pop element, stack is empty
+02:16:56.905 ERROR com.stackcalculator.StackCalculator 36 main - unsuccessful completion
+02:19:00.850 INFO  com.stackcalculator.StackCalculator 21 main - start
+02:19:00.859 INFO  com.stackcalculator.body.CLineParser 19 parse - parse cline arguments...
+02:19:00.862 INFO  com.stackcalculator.body.CLineParser 29 parse - parse cline arguments successful
+02:19:00.921 INFO  com.stackcalculator.body.CommandsParserImpl 50 buildScanner - start parse from console...
+02:19:16.465 INFO  com.stackcalculator.body.CommandsParserImpl 94 parse - successful parse
+02:19:16.517 INFO  com.stackcalculator.commands.notincluded.Push 32 exec - 1: 10.0 pushed
+02:19:16.518 INFO  com.stackcalculator.commands.notincluded.Pop 30 exec - 2: 10.0 popped
+02:19:16.519 ERROR com.stackcalculator.commands.notincluded.Pop 33 exec - 3: unable pop element, stack is empty
+02:19:16.520 ERROR com.stackcalculator.StackCalculator 36 main - unsuccessful completion
+02:21:15.776 INFO  com.stackcalculator.StackCalculator 21 main - start
+02:21:15.785 INFO  com.stackcalculator.body.CLineParser 19 parse - parse cline arguments...
+02:21:15.788 INFO  com.stackcalculator.body.CLineParser 29 parse - parse cline arguments successful
+02:21:15.826 INFO  com.stackcalculator.body.CommandsParserImpl 50 buildScanner - start parse from console...
+02:21:16.047 ERROR com.stackcalculator.body.CommandsParserImpl 78 parse - 1: must have 1 arguments, but present 0
+02:21:16.049 ERROR com.stackcalculator.StackCalculator 33 main - unsuccessful completion
+02:34:20.729 INFO  com.stackcalculator.StackCalculator 21 main - start
+02:34:20.738 INFO  com.stackcalculator.body.CLineParser 19 parse - parse cline arguments...
+02:34:20.740 INFO  com.stackcalculator.body.CLineParser 29 parse - parse cline arguments successful
+02:34:20.779 INFO  com.stackcalculator.body.CommandsParserImpl 50 buildScanner - start parse from console...
+02:34:25.184 INFO  com.stackcalculator.body.CommandsParserImpl 94 parse - successful parse
+02:34:25.204 INFO  com.stackcalculator.body.CommandsExecutorImpl 22 exec - execution is in progress...
+02:34:25.230 ERROR com.stackcalculator.commands.notincluded.Pop 33 exec - 1: unable pop element, stack is empty
+02:34:25.235 ERROR com.stackcalculator.StackCalculator 36 main - unsuccessful completion
+02:52:06.212 INFO  com.stackcalculator.StackCalculator 21 main - start
+02:52:06.234 INFO  com.stackcalculator.body.CLineParser 19 parse - parse cline arguments...
+02:52:06.238 INFO  com.stackcalculator.body.CLineParser 29 parse - parse cline arguments successful
+02:52:06.321 INFO  com.stackcalculator.body.CommandsParserImpl 50 buildScanner - start parse from console...
+02:53:00.654 INFO  com.stackcalculator.body.CommandsParserImpl 94 parse - successful parse
+02:53:00.659 INFO  com.stackcalculator.body.CommandsExecutorImpl 22 exec - execution is in progress...
+02:53:00.671 ERROR com.stackcalculator.commands.notincluded.Define 41 exec - invalid format of constant name
+02:53:00.686 ERROR com.stackcalculator.StackCalculator 36 main - unsuccessful completion
+02:57:02.183 INFO  com.stackcalculator.StackCalculator 21 main - start
+02:57:02.189 INFO  com.stackcalculator.body.CLineParser 19 parse - parse cline arguments...
+02:57:02.190 INFO  com.stackcalculator.body.CLineParser 29 parse - parse cline arguments successful
+02:57:02.229 INFO  com.stackcalculator.body.CommandsParserImpl 50 buildScanner - start parse from console...
+02:57:15.608 INFO  com.stackcalculator.body.CommandsParserImpl 94 parse - successful parse
+02:57:15.613 INFO  com.stackcalculator.body.CommandsExecutorImpl 22 exec - execution is in progress...
+02:57:15.675 INFO  com.stackcalculator.commands.notincluded.Define 33 exec - 1: constant A=10 was define
+02:57:15.699 INFO  com.stackcalculator.commands.notincluded.Push 33 exec - 2: 10.0A pushed
+02:57:15.702 INFO  com.stackcalculator.commands.notincluded.Push 33 exec - 3: 7.0 pushed
+02:57:15.706 INFO  com.stackcalculator.commands.notincluded.Print 34 exec - 5: 17.0 printed
+02:57:15.706 INFO  com.stackcalculator.body.CommandsExecutorImpl 34 exec - successful execution
+02:57:15.707 INFO  com.stackcalculator.StackCalculator 27 main - successful completion
+03:33:33.698 INFO  com.stackcalculator.StackCalculator 21 main - start
+03:33:33.712 INFO  com.stackcalculator.body.CLineParser 19 parse - parse cline arguments...
+03:33:33.723 INFO  com.stackcalculator.body.CLineParser 29 parse - parse cline arguments successful
+03:33:33.899 INFO  com.stackcalculator.body.CommandsParserImpl 50 buildScanner - start parse from console...
+03:33:48.973 INFO  com.stackcalculator.body.CommandsParserImpl 94 parse - successful parse
+03:33:49.000 INFO  com.stackcalculator.body.CommandsExecutorImpl 22 exec - execution is in progress...
+03:33:49.109 INFO  com.stackcalculator.commands.notincluded.Push 33 exec - 1: -10.0 pushed
+03:33:49.128 ERROR com.stackcalculator.commands.basicmath.SQRT 32 exec - 2: operation error SQRT(-10.0)=NaN
+03:33:49.131 ERROR com.stackcalculator.StackCalculator 36 main - unsuccessful completion
+19:32:34.162 ERROR com.stackcalculator.commands.basicmath.Plus 40 exec - 0: operation performed 23.7+56.0=79.7
+19:32:34.168 ERROR com.stackcalculator.commands.basicmath.Plus 40 exec - 0: operation performed 10.1+79.7=89.8
+19:59:21.333 INFO  com.stackcalculator.commands.basicmath.Minus 39 exec - 0: operation performed 23.7-56.0=-32.3
+19:59:21.339 INFO  com.stackcalculator.commands.basicmath.Minus 39 exec - 0: operation performed 10.1--32.3=42.4
+20:00:13.276 INFO  com.stackcalculator.commands.basicmath.Minus 39 exec - 0: operation performed 23.7-56.0=-32.3
+20:00:13.282 INFO  com.stackcalculator.commands.basicmath.Minus 39 exec - 0: operation performed 10.1--32.3=42.4
+20:00:49.832 INFO  com.stackcalculator.commands.basicmath.Minus 39 exec - 0: operation performed 23.7-56.0=-32.3
+20:00:49.841 INFO  com.stackcalculator.commands.basicmath.Minus 39 exec - 0: operation performed 10.1--32.3=42.4
+20:03:26.301 INFO  com.stackcalculator.commands.basicmath.Plus 40 exec - 0: operation performed 10.2+2.0=12.2
+20:04:38.047 INFO  com.stackcalculator.commands.basicmath.Division 39 exec - 0: operation performed 10.2/2.0=5.1
+20:08:12.085 INFO  com.stackcalculator.commands.basicmath.Division 39 exec - 0: operation performed 10.2/2.0=5.1
+20:08:42.174 INFO  com.stackcalculator.commands.basicmath.Division 39 exec - 0: operation performed 10.2/2.0=5.1
+20:08:50.792 ERROR com.stackcalculator.commands.basicmath.Division 33 exec - 0: operation error 10.2/0.0=Infinity
+20:11:37.698 INFO  com.stackcalculator.commands.basicmath.Multiplication 40 exec - 0: operation performed 23.7*56.0=1327.2
+20:11:37.706 INFO  com.stackcalculator.commands.basicmath.Multiplication 40 exec - 0: operation performed 10.1*1327.2=13404.72
+20:17:20.703 INFO  com.stackcalculator.commands.basicmath.Multiplication 40 exec - 0: operation performed 23.7*56.0=1327.2
+20:17:20.712 INFO  com.stackcalculator.commands.basicmath.Multiplication 40 exec - 0: operation performed 10.1*1327.2=13404.72
+20:19:50.079 INFO  com.stackcalculator.commands.basicmath.SQRT 39 exec - 0: operation performed SQRT(9.0)=3.0
+20:22:52.749 INFO  com.stackcalculator.commands.basicmath.SQRT 39 exec - 0: operation performed SQRT(9.0)=3.0
+20:22:52.821 INFO  com.stackcalculator.commands.basicmath.SQRT 39 exec - 0: operation performed SQRT(9.0)=3.0
+20:23:18.002 INFO  com.stackcalculator.commands.basicmath.SQRT 39 exec - 0: operation performed SQRT(9.0)=3.0
+20:23:18.085 ERROR com.stackcalculator.commands.basicmath.SQRT 32 exec - 0: operation error SQRT(-3.0)=NaN
